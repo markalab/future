@@ -1,9 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 # Future by the Future
 Workshop on the vision for the next decades in astrophysics with gravitational waves and other cosmic messengers
 
@@ -35,7 +29,6 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 5:00-5:30 | Anamaria Effler | TBD |
 | 5:30-6:10 |  | _Panel discussion about the future_ |
 | 6:10-7:00 |  | _Wine and cheese_ |
-{: .tablelines}
 
 ### Saturday
 | Time | Speaker | Title |
@@ -55,10 +48,9 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 3:10-3:40 | Peter Veres | Role of Gamma-ray Bursts in the Future of Multimessenger Astrophysics |
 | 3:40-4:20 |  | _Panel discussion about the future_ |
 | 4:20-4:30 | Zsuzsa Marka | _Closing remarks_ |
-{: .tablelines}
 
 ## Location
-Columbia University, Pupin Hall
+Columbia University, Pupin Hall<br>
 Center for Theoretical Physics, 8th Floor
 
 Pupin Hall is at the north side of campus by 120th St.
