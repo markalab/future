@@ -1,32 +1,3 @@
-<style>
-  table {
-  margin: 15px 0; }
-  table {
-  padding: 0; }
-  table tr {
-    border-top: 1px solid #cccccc;
-    background-color: white;
-    margin: 0;
-    padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid #cccccc;
-      text-align: left;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
-</style>
-
 # Future by the Future
 Workshop on the vision for the next decades in astrophysics with gravitational waves and other cosmic messengers
 
@@ -58,7 +29,6 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 5:00-5:30 | Anamaria Effler | TBD |
 | 5:30-6:10 |  | _Panel discussion about the future_ |
 | 6:10-7:00 |  | _Wine and cheese_ |
-{: table}
 
 ### Saturday
 | Time | Speaker | Title |
@@ -78,7 +48,6 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 3:10-3:40 | Peter Veres | Role of Gamma-ray Bursts in the Future of Multimessenger Astrophysics |
 | 3:40-4:20 |  | _Panel discussion about the future_ |
 | 4:20-4:30 | Zsuzsa Marka | _Closing remarks_ |
-{: table}
 
 ## Location
 Columbia University, Pupin Hall
