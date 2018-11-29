@@ -58,6 +58,7 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 5:00-5:30 | Anamaria Effler | TBD |
 | 5:30-6:10 |  | _Panel discussion about the future_ |
 | 6:10-7:00 |  | _Wine and cheese_ |
+{: table}
 
 ### Saturday
 | Time | Speaker | Title |
@@ -77,6 +78,7 @@ Nov. 30 - Dec. 1, 2018, Columbia University
 | 3:10-3:40 | Peter Veres | Role of Gamma-ray Bursts in the Future of Multimessenger Astrophysics |
 | 3:40-4:20 |  | _Panel discussion about the future_ |
 | 4:20-4:30 | Zsuzsa Marka | _Closing remarks_ |
+{: table}
 
 ## Location
 Columbia University, Pupin Hall
