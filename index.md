@@ -1,5 +1,6 @@
 # Future by the Future
-Workshop on the vision for the next decades in astrophysics with gravitational waves and other cosmic messengers<br>
+Workshop on the vision for the next decades in astrophysics with gravitational waves and other cosmic messengers
+
 Nov. 30 - Dec. 1, 2018, Columbia University
 
 ## Schedule
